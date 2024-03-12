@@ -10,7 +10,7 @@ Connecting Docker SQL container to python Script
 
 3. ODBC Driver for SQL Server (17)
    
-  -Driver download 
+    -Driver download 
   
    https://learn.microsoft.com/en-us/sql/connect/odbc/download-odbc-driver-for-sql-server?view=sql-server-ver16
    
@@ -27,7 +27,7 @@ Connecting Docker SQL container to python Script
     localhost:5000/update/expedition_id/expeditiondDataID_FK_id
 
      
-  3. Body : JSON
+  2. Body : JSON
 
      
       { "HtmlError": "1000 Test Works", "URL": "https://example.com/image.jpg" }
